@@ -49,16 +49,5 @@ https://github.com/Itsgauravvv/House-Price-Prediction/assets/demo.gif *(Add GIF 
    python app.py
 5. **Visit Localhost**
    [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
-6. **Project Structure**
-   House-Price-Prediction/
-   │
-   ├── static/
-   │   └── style.css           # Styling (dark theme, animations)
-   │
-   ├── templates/
-   │   └── predict.html        # HTML frontend with Bootstrap
-   │
-   ├── app.py                  # Main Flask server file
-   ├── model.pkl               # Trained machine learning model       
-   └── requirements.txt        # Required Python packages
+
 
