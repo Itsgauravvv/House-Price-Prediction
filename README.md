@@ -13,12 +13,6 @@ A web-based application that predicts housing prices in Boston using machine lea
 
 ---
 
-## 🖥️ Demo
-
-https://github.com/Itsgauravvv/House-Price-Prediction/assets/demo.gif *(Add GIF here if you have one)*
-
----
-
 ## 🛠️ Technologies Used
 
 - **Python** 🐍
